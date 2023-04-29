@@ -7,3 +7,19 @@
 **Thoughts**: I really struggled with strings, but, overall, I feel like I am slowly getting better at it. C++ is still new for me, but I managed to figure out some basic functionality. I'm very excited to get back into the coding again.
 
 **Link(s) to work**: [Strings Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Unit2)
+
+### Day 1: Friday, April 28, 2023
+
+**Today's Progress**: Solved 10 Patterns problems in C++.
+
+**Thoughts**: Started many challenges parallelly like walking, journaling, drinking water minimum 3 Ltrs, meditation, yoga, reading book. I started reading Atomic Habits book. After completed the first chapter I learned, process is much more important than result. I really enjoyed my day, especially coding.
+
+**Link(s) to work**: [Patterns Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Patterns)
+
+### Day 2: Saturday, April 29, 2023
+
+**Today's Progress**: Solved 5 Function problems in C++.
+
+**Thoughts**: Well could do 4.64 Kms walking, journaling, drank 3 Ltrs of water, 3 minitues of meditation, 10 minitues of yoga, read few pages (from Chapter 2) of Atomic Habits book. From today onwards I decided to build programmer's mindset. I really enjoyed the day with coding.
+
+**Link(s) to work**: [Functions Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/functions)
