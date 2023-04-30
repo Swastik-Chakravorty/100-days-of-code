@@ -12,3 +12,6 @@ Solved 10 Patterns problems in C++ [https://github.com/Swastik-Chakravorty/Learn
 
 ### R1D3 
 Solved 5 Function problems in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/functions]
+
+### R1D4 
+Solved 8 Function problems in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/functions]
