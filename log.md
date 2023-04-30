@@ -23,3 +23,11 @@
 **Thoughts**: Well could do 4.64 Kms walking, journaling, drank 3 Ltrs of water, 3 minitues of meditation, 10 minitues of yoga, read few pages (from Chapter 2) of Atomic Habits book. From today onwards I decided to build programmer's mindset. I really enjoyed the day with coding.
 
 **Link(s) to work**: [Functions Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/functions)
+
+### Day 3: Sunday, April 30, 2023
+
+**Today's Progress**: Solved 8 Function problems in C++.
+
+**Thoughts**: Well, today I couldn't do anything extra productive. But one thing I realised is that I didn't procrastinate coding today; in fact, I enjoyed coding today in a holiday mood. I really love programming. I learned one thing today: "Every moment of life is important", so live every moment to the fullest.
+
+**Link(s) to work**: [Functions Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/functions)
