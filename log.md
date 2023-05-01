@@ -31,3 +31,11 @@
 **Thoughts**: Well, today I couldn't do anything extra productive. But one thing I realised is that I didn't procrastinate coding today; in fact, I enjoyed coding today in a holiday mood. I really love programming. I learned one thing today: "Every moment of life is important", so live every moment to the fullest.
 
 **Link(s) to work**: [Functions Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/functions)
+
+### Day 4: Monday, May 1, 2023
+
+**Today's Progress**: Finished week 3 of CS50 and solved 3 problems.
+
+**Thoughts**: Well, today also I couldn't do anything extra productive, only walked 5 Kms. I realised today that my time management is poor. So, I have to work on my time management.
+
+**Link(s) to work**: [CS50 Week 3 Problems](https://github.com/code50/112097563)
