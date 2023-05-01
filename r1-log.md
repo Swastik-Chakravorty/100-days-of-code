@@ -15,3 +15,6 @@ Solved 5 Function problems in C++ [https://github.com/Swastik-Chakravorty/Learni
 
 ### R1D4 
 Solved 8 Function problems in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/functions]
+
+### R1D5 
+Finished week 3 of CS50 and solved 3 problems [https://github.com/code50/112097563]
