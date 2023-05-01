@@ -36,6 +36,6 @@
 
 **Today's Progress**: Finished week 3 of CS50 and solved 3 problems.
 
-**Thoughts**: Well, today also I couldn't do anything extra productive, only walked 5 Kms. I realised today that my time management is poor. So, I have to work on my time management.
+**Thoughts**: Well, today also I could not do anything extra productive, only walked 5 Kms. I realised today that my time management is poor. So, I have to work on my time management.
 
 **Link(s) to work**: [CS50 Week 3 Problems](https://github.com/code50/112097563)
