@@ -39,3 +39,11 @@
 **Thoughts**: Well, today also I could not do anything extra productive, only walked 5 Kms. I realised today that my time management is poor. So, I have to work on my time management.
 
 **Link(s) to work**: [CS50 Week 3 Problems](https://github.com/code50/112097563)
+
+### Day 5: Tuesday, May 2, 2023
+
+**Today's Progress**: Solved 3 function problems in C++ from Saylor Academy unit 2.
+
+**Thoughts**: Well, today I could do journaling, 3 minitues of meditation, 10 minitues of yoga, weist-shoulder exercise, completed Chapter 2 of Atomic Habits book. But couldn't do walking, couldn't dring more than 3 Ltrs water. After completed the chapter 2, I learned a very valuable lesson "I can change my identity by changing my habits and my beliefs".
+
+**Link(s) to work**: [C++ Functions Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Unit2/function)
