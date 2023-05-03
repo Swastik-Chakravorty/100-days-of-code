@@ -47,3 +47,11 @@
 **Thoughts**: Well, today I could do journaling, 3 minitues of meditation, 10 minitues of yoga, weist-shoulder exercise, completed Chapter 2 of Atomic Habits book. But couldn't do walking, couldn't dring more than 3 Ltrs water. After completed the chapter 2, I learned a very valuable lesson "I can change my identity by changing my habits and my beliefs".
 
 **Link(s) to work**: [C++ Functions Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Unit2/function)
+
+### Day 6: Tuesday, May 2, 2023
+
+**Today's Progress**: Solved 2 function problems in C++ from Saylor Academy unit 2.
+
+**Thoughts**: Well, today I did nothing extra productive as today is my one of the best friend's brother's marriage.
+
+**Link(s) to work**: [C++ Functions Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Unit2/function)
