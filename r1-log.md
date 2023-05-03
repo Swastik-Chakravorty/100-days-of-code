@@ -21,3 +21,6 @@ Finished week 3 of CS50 and solved 3 problems [https://github.com/code50/1120975
 
 ### R1D6 
 Solved 3 function problems in C++ from Saylor Academy unit 2 [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Unit2/function]
+
+### R1D7 
+Solved 2 function problems in C++ from Saylor Academy unit 2 [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Unit2/function]
