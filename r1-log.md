@@ -24,3 +24,6 @@ Solved 3 function problems in C++ from Saylor Academy unit 2 [https://github.com
 
 ### R1D7 
 Solved 2 function problems in C++ from Saylor Academy unit 2 [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Unit2/function]
+
+### R1D8 
+Solved 3 miscellaneous problems in C++. [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Extra]
