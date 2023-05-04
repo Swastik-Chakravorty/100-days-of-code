@@ -48,10 +48,18 @@
 
 **Link(s) to work**: [C++ Functions Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Unit2/function)
 
-### Day 6: Tuesday, May 2, 2023
+### Day 6: Wednesday, May 3, 2023
 
 **Today's Progress**: Solved 2 function problems in C++ from Saylor Academy unit 2.
 
 **Thoughts**: Well, today I did nothing extra productive as today is my one of the best friend's brother's marriage.
 
 **Link(s) to work**: [C++ Functions Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Unit2/function)
+
+### Day 7: Thursday, May 4, 2023
+
+**Today's Progress**: Solved 3 miscellaneous problems in C++ from Saylor Academy unit 2.
+
+**Thoughts**: Well, today I could do journaling, 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, read few pages (from Chapter 3) of Atomic Habits book. But couldn't do walking, couldn't dring more than 3 Ltrs water. Today, I learned a very little about "The Habit Loop".
+
+**Link(s) to work**: [C++ Miscellaneous Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Extra)
