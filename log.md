@@ -58,7 +58,7 @@
 
 ### Day 7: Thursday, May 4, 2023
 
-**Today's Progress**: Solved 3 miscellaneous problems in C++ from Saylor Academy unit 2.
+**Today's Progress**: Solved 3 miscellaneous problems in C++.
 
 **Thoughts**: Well, today I could do journaling, 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, read few pages (from Chapter 3) of Atomic Habits book. But couldn't do walking, couldn't dring more than 3 Ltrs water. Today, I learned a very little about "The Habit Loop".
 
