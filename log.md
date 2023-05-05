@@ -44,7 +44,7 @@
 
 **Today's Progress**: Solved 3 function problems in C++ from Saylor Academy unit 2.
 
-**Thoughts**: Well, today I could do journaling, 3 minitues of meditation, 10 minitues of yoga, weist-shoulder exercise, completed Chapter 2 of Atomic Habits book. But couldn't do walking, couldn't dring more than 3 Ltrs water. After completed the chapter 2, I learned a very valuable lesson "I can change my identity by changing my habits and my beliefs".
+**Thoughts**: Well, today I could do journaling, 3 minitues of meditation, 10 minitues of yoga, weist-shoulder exercise, completed Chapter 2 of Atomic Habits book. But couldn't do walking, couldn't drink more than 3 Ltrs water. After completed the chapter 2, I learned a very valuable lesson "I can change my identity by changing my habits and my beliefs".
 
 **Link(s) to work**: [C++ Functions Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Unit2/function)
 
@@ -63,3 +63,11 @@
 **Thoughts**: Well, today I could do journaling, 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, read few pages (from Chapter 3) of Atomic Habits book. But couldn't do walking, couldn't dring more than 3 Ltrs water. Today, I learned a very little about "The Habit Loop".
 
 **Link(s) to work**: [C++ Miscellaneous Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Extra)
+
+### Day 8: Friday, May 5, 2023
+
+**Today's Progress**: Learned searches and sorts in C++ and solved some problems in arrays from C++ and solved some problems in C from CS50.
+
+**Thoughts**: Well, today I could do journaling and drank more than 3 Ltrs water but nothing extra productives could be done.
+
+**Link(s) to work**: [C & C++ arrays, searching and sorting Problems](https://github.com/code50/112097563/commits?author=Swastik-Chakravorty)
