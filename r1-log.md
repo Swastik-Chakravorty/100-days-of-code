@@ -27,3 +27,6 @@ Solved 2 function problems in C++ from Saylor Academy unit 2 [https://github.com
 
 ### R1D8 
 Solved 3 miscellaneous problems in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Extra]
+
+### R1D9 
+Learned searches and sorts in C++ and solved some problems in arrays from C++ and solved some problems in C from CS50 [https://github.com/code50/112097563/commits?author=Swastik-Chakravorty]
