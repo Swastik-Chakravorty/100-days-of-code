@@ -71,3 +71,11 @@
 **Thoughts**: Well, today I could do journaling and drank more than 3 Ltrs water but nothing extra productives could be done.
 
 **Link(s) to work**: [C & C++ arrays, searching and sorting Problems](https://github.com/code50/112097563/commits?author=Swastik-Chakravorty)
+
+### Day 9: Saturday, May 6, 2023
+
+**Today's Progress**: Solved 7 array problems related to searching and sorting in C++
+
+**Thoughts**: Well, today I could do only coding and journaling but nothing extra productives could be done.
+
+**Link(s) to work**: [C++ Array Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays)
