@@ -60,7 +60,7 @@
 
 **Today's Progress**: Solved 3 miscellaneous problems in C++.
 
-**Thoughts**: Well, today I could do journaling, 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, read few pages (from Chapter 3) of Atomic Habits book. But couldn't do walking, couldn't dring more than 3 Ltrs water. Today, I learned a very little about "The Habit Loop".
+**Thoughts**: Well, today I could do journaling, 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, read few pages (from Chapter 3) of Atomic Habits book. But couldn't do walking, couldn't drink more than 3 Ltrs water. Today, I learned a very little about "The Habit Loop".
 
 **Link(s) to work**: [C++ Miscellaneous Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Extra)
 
@@ -79,3 +79,11 @@
 **Thoughts**: Well, today I could do only coding and journaling but nothing extra productives could be done.
 
 **Link(s) to work**: [C++ Array Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays)
+
+### Day 10: Sunday, May 7, 2023
+
+**Today's Progress**: Spent a full day solving the Fastest Horse puzzle with C++.
+
+**Thoughts**: Well, today I could do journaling, 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, drank more than 3 Ltrs water. But couldn't read book, couldn't go for walking. Today, I realized, I need to put in extra time and effort to see results promptly and create habits that last.
+
+**Link(s) to work**: [Fastest horse puzzle in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/blob/master/Arrays/fastest_3Horses.cpp)
