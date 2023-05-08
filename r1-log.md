@@ -36,3 +36,6 @@ Solved 7 array problems related to searching and sorting in C++ [https://github.
 
 ### R1D11 
 Spent a full day solving the Fastest Horse puzzle with C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/blob/master/Arrays/fastest_3Horses.cpp]
+
+### R1D12 
+Solved 5 patterns problems in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Patterns]
