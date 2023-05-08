@@ -14,7 +14,7 @@
 
 **Thoughts**: Started many challenges parallelly like walking, journaling, drinking water minimum 3 Ltrs, meditation, yoga, reading book. I started reading Atomic Habits book. After completed the first chapter I learned, process is much more important than result. I really enjoyed my day, especially coding.
 
-**Link(s) to work**: [Patterns Problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Patterns)
+**Link(s) to work**: [Patterns Problems in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Patterns)
 
 ### Day 2: Saturday, April 29, 2023
 
@@ -87,3 +87,11 @@
 **Thoughts**: Well, today I could do journaling, 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, drank more than 3 Ltrs water. But couldn't read book, couldn't go for walking. Today, I realized, I need to put in extra time and effort to see results promptly and create habits that last.
 
 **Link(s) to work**: [Fastest horse puzzle in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/blob/master/Arrays/fastest_3Horses.cpp)
+
+### Day 11: Monday, May 8, 2023
+
+**Today's Progress**: Solved 5 patterns problems in C++
+
+**Thoughts**: Well, It was our marriage anniversary today. So, couldn't do anything extra productive, did fun and tour whole day. Today I learned, "Celebrate and live fully every moment of life, because it is decreasing every moment".
+
+**Link(s) to work**: [Patterns Problems in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Patterns)
