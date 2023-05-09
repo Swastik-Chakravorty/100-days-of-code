@@ -95,3 +95,11 @@
 **Thoughts**: Well, It was our marriage anniversary today. So, couldn't do anything extra productive, did fun and tour whole day. Today I learned, "Celebrate and live fully every moment of life, because it is decreasing every moment".
 
 **Link(s) to work**: [Patterns Problems in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Patterns)
+
+### Day 12: Tuesday, May 9, 2023
+
+**Today's Progress**: Solved 4 arrays problems which were asked by Google, Amazon and Oracle in C++
+
+**Thoughts**: Well, today I could do journaling, drank more than 3 Ltrs water and finished 3rd chapter of "Atomic Habits" book. Get to know a little bit about "4 Laws of behavior change". But couldn't do 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, couldn't go for walking. Today, I realized, I'm building a bad habit of "doing nothing extra productive" for 5 days in a row. I'll break it and make a good habit instead of it very soon.
+
+**Link(s) to work**: [Arrays Problems in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays)
