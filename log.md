@@ -103,3 +103,11 @@
 **Thoughts**: Well, today I could do journaling, drank more than 3 Ltrs water and finished 3rd chapter of "Atomic Habits" book. Get to know a little bit about "4 Laws of behavior change". But couldn't do 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, couldn't go for walking. Today, I realized, I'm building a bad habit of "doing nothing extra productive" for 5 days in a row. I'll break it and make a good habit instead of it very soon.
 
 **Link(s) to work**: [Arrays Problems in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays)
+
+### DAY OFF: Wednesday, May 10, 2023
+
+**Today's Progress**: Today, I'm not going to count the days. Despite studying C++ (revision and the basics of pointers) and performing some practice today, I'm not counting it as a coding day because my total time spent practicing was less than an hour.
+
+**Thoughts**: Well, today I couldn't do anything. But, I came to understand that sometimes taking a day off is preferable. I spent an entire day studying coding, but I only put what I learned into practise for an hour. Therefore, I'm not counting the day.
+
+**Link(s) to work**: [Pointer in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Pointer)
