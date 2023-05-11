@@ -111,3 +111,11 @@
 **Thoughts**: Well, today I couldn't do anything. But, I came to understand that sometimes taking a day off is preferable. I spent an entire day studying coding, but I only put what I learned into practise for an hour. Therefore, I'm not counting the day.
 
 **Link(s) to work**: [Pointer in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Pointer)
+
+### Day 13: Thursday, May 11, 2023
+
+**Today's Progress**: Learned some topics of Function and solved 2 problems from recursion in C++
+
+**Thoughts**: Well, today I could do journaling, drank more than 3 Ltrs water. But couldn't do 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, couldn't go for walking, couldn't read book. It's 7 days in a row of "doing nothing extra productive". I've to work on it as soon as possible.
+
+**Link(s) to work**: [Recursion Problems in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion)
