@@ -42,3 +42,6 @@ Solved 5 patterns problems in C++ [https://github.com/Swastik-Chakravorty/Learni
 
 ### R1D13 
 Solved 4 arrays problems which were asked by Google, Amazon and Oracle in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays]
+
+### R1D14 
+Learned some topics of Function and solved 2 problems from recursion in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion]
