@@ -45,3 +45,6 @@ Solved 4 arrays problems which were asked by Google, Amazon and Oracle in C++ [h
 
 ### R1D14 
 Learned some topics of Function and solved 2 problems from recursion in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion]
+
+### R1D15 
+Solved 6 arrays problems which were asked by Google, Amazon and Oracle in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays]
