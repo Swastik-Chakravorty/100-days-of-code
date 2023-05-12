@@ -119,3 +119,11 @@
 **Thoughts**: Well, today I could do journaling, drank more than 3 Ltrs water. But couldn't do 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, couldn't go for walking, couldn't read book. It's 7 days in a row of "doing nothing extra productive". I've to work on it as soon as possible.
 
 **Link(s) to work**: [Recursion Problems in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion)
+
+### Day 14: Friday, May 12, 2023
+
+**Today's Progress**: Solved 6 arrays problems which were asked by Google, Amazon and Oracle in C++
+
+**Thoughts**: Well, today I could do journaling, drank more than 3 Ltrs water. But couldn't do 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, couldn't go for walking, couldn't read book, but decided to commit more 100DaysOfX Challenges from tomorrow. Today I discovered, I'm able to perform more tasks with more energy as I put more effort into being productive.
+
+**Link(s) to work**: [Arrays Problems in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays)
