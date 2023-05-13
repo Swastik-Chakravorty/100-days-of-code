@@ -127,3 +127,11 @@
 **Thoughts**: Well, today I could do journaling, drank more than 3 Ltrs water. But couldn't do 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, couldn't go for walking, couldn't read book, but decided to commit more 100DaysOfX Challenges from tomorrow. Today I discovered, I'm able to perform more tasks with more energy as I put more effort into being productive.
 
 **Link(s) to work**: [Arrays Problems in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays)
+
+### Day 15: Saturday, May 13, 2023
+
+**Today's Progress**: Solved 2 problems in C++ from Saylor Academy unit2
+
+**Thoughts**: Well, today I could do journaling, drank more than 3 Ltrs water, walked 5 Kms. But couldn't do 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, couldn't read book. Decided to commit the other 100DaysOfX Challenges from Monday. Today I realized, if for any emergency, I've to pause 100 days of challenge, I don't think it'll hamper my progress any way.
+
+**Link(s) to work**: [Problems in C++ from Saylor](https://github.com/Swastik-Chakravorty/Learning_CPP)
