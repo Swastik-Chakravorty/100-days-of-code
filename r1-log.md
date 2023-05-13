@@ -48,3 +48,6 @@ Learned some topics of Function and solved 2 problems from recursion in C++ [htt
 
 ### R1D15 
 Solved 6 arrays problems which were asked by Google, Amazon and Oracle in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays]
+
+### R1D16 
+Solved 2 problems in C++ from Saylor Academy unit2 [https://github.com/Swastik-Chakravorty/Learning_CPP]
