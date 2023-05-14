@@ -51,3 +51,6 @@ Solved 6 arrays problems which were asked by Google, Amazon and Oracle in C++ [h
 
 ### R1D16 
 Solved 2 problems in C++ from Saylor Academy unit2 [https://github.com/Swastik-Chakravorty/Learning_CPP]
+
+### R1D17 
+Solved 1 2D-Array & 3 Array matrices problems in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays]
