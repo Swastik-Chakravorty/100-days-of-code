@@ -143,3 +143,11 @@
 **Thoughts**: Well, today I could do only journaling. But couldn't do 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, couldn't read book, drink more than 3 Ltrs water, walked 5 Kms. Enjoyed Sunday & Mothers Day with parents, sister and wife. My love for coding is increasing day by day, despite of all challenges I'm facing everyday.
 
 **Link(s) to work**: [Array Problems in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays)
+
+### Day 17: Monday, May 15, 2023
+
+**Today's Progress**: Solved 4 array matrix & character array problems in C++
+
+**Thoughts**: Well, today I could do only journaling. But couldn't do 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, couldn't read book, drink more than 3 Ltrs water, walked 5 Kms. Today also couldn't start the 100 days of X challenges. Looking forward to start the same from tomorrow.
+
+**Link(s) to work**: [Array Problems in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays)
