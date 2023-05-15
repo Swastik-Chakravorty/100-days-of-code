@@ -54,3 +54,6 @@ Solved 2 problems in C++ from Saylor Academy unit2 [https://github.com/Swastik-C
 
 ### R1D17 
 Solved 1 2D-Array & 3 Array matrices problems in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays]
+
+### R1D18 
+Solved 4 array matrix & character array problems in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays]
