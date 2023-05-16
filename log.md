@@ -151,3 +151,11 @@
 **Thoughts**: Well, today I could do only journaling. But couldn't do 3 minitues of meditation, weist-shoulder exercise, 5 minitues pranayam, couldn't read book, drink more than 3 Ltrs water, walked 5 Kms. Today also couldn't start the 100 days of X challenges. Looking forward to start the same from tomorrow.
 
 **Link(s) to work**: [Array Problems in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays)
+
+### Day 18: Tuesday, May 16, 2023
+
+**Today's Progress**: Solved 2 array problems in C++
+
+**Thoughts**: Well, today I could do journaling, meditation, weist-shoulder exercise, pranayam, read few pages from chapter 4 of Atomic Habits, drank 2.5 Ltrs water, walked 6 Kms. But couldn't control the craving for fast food and ended up with eating junk food. Today also started the 100 days of Health, Meditation and Reading challenges. Decided to concentrate on creating cue to anticipate coding problems that have an easy-to-read code and O(log(n)) and space complexity solution.
+
+**Link(s) to work**: [Array Problems in C++](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays)
