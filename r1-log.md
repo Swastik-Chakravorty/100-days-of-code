@@ -57,3 +57,6 @@ Solved 1 2D-Array & 3 Array matrices problems in C++ [https://github.com/Swastik
 
 ### R1D18 
 Solved 4 array matrix & character array problems in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays]
+
+### R1D19 
+Solved 2 array problems in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/Arrays]
