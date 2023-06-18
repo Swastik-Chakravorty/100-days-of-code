@@ -8,3 +8,11 @@
 
 **Link(s) to work**: [Recursion problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion)
 
+### Day 2: Sunday, June 18, 2023
+
+**Today's Progress**: Solved 4 recursion problems in C++ and learned file opening, reading, writing in C from CS50X week 4
+
+**Thoughts**: Getting more familiar with recursion. Today I learned about file opening, reading, writing in C from CS50X week 4 with Carter Zenke.
+
+**Link(s) to work**: [Recursion problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion)
+
