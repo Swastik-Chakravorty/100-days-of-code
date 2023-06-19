@@ -16,3 +16,11 @@
 
 **Link(s) to work**: [Recursion problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion)
 
+### Day 3: Monday, June 19, 2023
+
+**Today's Progress**: Solved 6 recursion problems in C++
+
+**Thoughts**: Getting more familiar with recursion. Today I solved 6 problems with recursion.
+
+**Link(s) to work**: [Recursion problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion)
+
