@@ -9,3 +9,6 @@ Solved 2 recursion problems in C++ [https://github.com/Swastik-Chakravorty/Learn
 
 ### R1D2 
 Solved 4 recursion problems in C++ and learned file opening, reading, writing in C from CS50X week 4 [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion]
+
+### R1D3 
+Solved 6 recursion problems in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion]
