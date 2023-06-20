@@ -12,3 +12,6 @@ Solved 4 recursion problems in C++ and learned file opening, reading, writing in
 
 ### R1D3 
 Solved 6 recursion problems in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion]
+
+### R1D4 
+Solved only 1 recursion problem (Quick Sort) in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion]
