@@ -24,3 +24,11 @@
 
 **Link(s) to work**: [Recursion problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion)
 
+### Day 4: Tuesday, June 20, 2023
+
+**Today's Progress**: Solved only 1 recursion problem (Quick Sort) in C++
+
+**Thoughts**: Today was Rath Yatra, so we went out for a tour, and I didn't get much time. I could solve only one recursion problem, i.e., Quick Sort.
+
+**Link(s) to work**: [Recursion problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion)
+
