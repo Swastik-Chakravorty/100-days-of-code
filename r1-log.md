@@ -15,3 +15,6 @@ Solved 6 recursion problems in C++ [https://github.com/Swastik-Chakravorty/Learn
 
 ### R1D4 
 Solved only 1 recursion problem (Quick Sort) in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion]
+
+### R1D5 
+Solved only 1 recursion problem in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion]
