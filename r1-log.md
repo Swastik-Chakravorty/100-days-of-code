@@ -18,3 +18,6 @@ Solved only 1 recursion problem (Quick Sort) in C++ [https://github.com/Swastik-
 
 ### R1D5 
 Solved only 1 recursion problem in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion]
+
+### R1D6 
+Practiced problems from week 4 CS50X and learned OOP concepts in C++ [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP]
