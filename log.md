@@ -40,3 +40,11 @@
 
 **Link(s) to work**: [Recursion problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/recursion)
 
+### Day 6: Thursday, June 22, 2023
+
+**Today's Progress**: Practiced problems from week 4 CS50X and learned OOP concepts in C++
+
+**Thoughts**: Today I practiced problems from week 4 CS50X and learned OOP concepts in C++.
+
+**Link(s) to work**: [OOP problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
+
