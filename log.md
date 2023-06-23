@@ -48,3 +48,11 @@
 
 **Link(s) to work**: [OOP problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
 
+### Day 7: Friday, June 23, 2023
+
+**Today's Progress**: Practiced problems from week 4 of CS50X, learned OOP concepts in C++, and Learned Encapsulation.
+
+**Thoughts**: Today I practiced problems from week 4 of CS50X, learned OOP concepts in C++, and Learned Encapsulation. I drank 3 liters of water but couldn't exercise, go for walks, or read a book.
+
+**Link(s) to work**: [OOP problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
+
