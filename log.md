@@ -56,3 +56,11 @@
 
 **Link(s) to work**: [OOP problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
 
+### Day 8: Saturday, June 24, 2023
+
+**Today's Progress**: Learned OOP concepts in C++, and Learned Inheritance.
+
+**Thoughts**: Today I learned OOP concepts in C++ and Learned Inheritance. I drank 3 liters of water, exercised for 15 minutes, and walked 2.5 km, but I couldn't read today.
+
+**Link(s) to work**: [OOP problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
+
