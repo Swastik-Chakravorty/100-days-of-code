@@ -24,3 +24,6 @@ Practiced problems from week 4 CS50X and learned OOP concepts in C++ [https://gi
 
 ### R1D7 
 Practice problems from week 4 of CS50X, learned OOP concepts in C++, and Learned Encapsulation. [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP]
+
+### R1D8 
+Learned OOP concepts and inheritance in C++. [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP]
