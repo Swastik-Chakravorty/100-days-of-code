@@ -64,3 +64,11 @@
 
 **Link(s) to work**: [OOP problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
 
+### Day 9: Sunday, June 25, 2023
+
+**Today's Progress**: Learned OOP concepts in C++ and remaining inheritance, polymorphism, and abstraction.
+
+**Thoughts**: Today I learned OOP concepts in C++ and remaining inheritance, polymorphism, and abstraction. I drank 2 liters of water but couldn't exercise, go for walks, or read a book. But today I enjoyed Sunday with travelling, eating out and Coding.
+
+**Link(s) to work**: [OOP problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
+
