@@ -58,9 +58,9 @@
 
 ### Day 8: Saturday, June 24, 2023
 
-**Today's Progress**: Learned OOP concepts in C++, and Learned Inheritance.
+**Today's Progress**: Learned OOP concepts in C++ and Inheritance.
 
-**Thoughts**: Today I learned OOP concepts in C++ and Learned Inheritance. I drank 3 liters of water, exercised for 15 minutes, and walked 2.5 km, but I couldn't read today.
+**Thoughts**: Today I learned OOP concepts in C++ and Inheritance. I drank 3 liters of water, exercised for 15 minutes, and walked 2.5 km, but I couldn't read today.
 
 **Link(s) to work**: [OOP problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
 
@@ -68,7 +68,7 @@
 
 **Today's Progress**: Learned OOP concepts in C++ and remaining inheritance, polymorphism, and abstraction.
 
-**Thoughts**: Today I learned OOP concepts in C++ and remaining inheritance, polymorphism, and abstraction. I drank 2 liters of water but couldn't exercise, go for walks, or read a book. But today I enjoyed Sunday with travelling, eating out and Coding.
+**Thoughts**: Today I learned OOP concepts in C++ including remaining inheritance, polymorphism, and abstraction. I drank 2 liters of water but couldn't exercise, go for walks, or read a book. But today I enjoyed Sunday with travelling, eating out and Coding.
 
 **Link(s) to work**: [OOP problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
 
