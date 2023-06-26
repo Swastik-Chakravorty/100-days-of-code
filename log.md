@@ -72,3 +72,11 @@
 
 **Link(s) to work**: [OOP problems](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
 
+### Day 10: Monday, June 26, 2023
+
+**Today's Progress**: Solved CS50X week 4 lab smiley and submitted.
+
+**Thoughts**: Today I could solved only CS50X week 4 lab smiley and submitted the same. I drank 2 liters of water but couldn't exercise, go for walks, or read a book.
+
+**Link(s) to work**: [CS50 week 4 smiley problems](https://github.com/me50/Swastik-Chakravorty)
+
