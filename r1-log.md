@@ -30,3 +30,6 @@ Learned OOP concepts and inheritance in C++. [https://github.com/Swastik-Chakrav
 
 ### R1D9 
 Learned OOP concepts in C++ and remaining inheritance, polymorphism, and abstraction. [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP]
+
+### R1D10 
+Solved CS50X week 4 lab smiley and submitted. [https://github.com/me50/Swastik-Chakravorty]
