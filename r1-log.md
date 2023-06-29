@@ -33,3 +33,6 @@ Learned OOP concepts in C++ and remaining inheritance, polymorphism, and abstrac
 
 ### R1D10 
 Solved CS50X week 4 lab smiley and submitted. [https://github.com/me50/Swastik-Chakravorty]
+
+### R1D11 
+Solved and submitted CS50X week 4 lab volume and started learning Java. [https://github.com/me50/Swastik-Chakravorty]
