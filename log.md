@@ -80,3 +80,11 @@
 
 **Link(s) to work**: [CS50 week 4 smiley problems](https://github.com/me50/Swastik-Chakravorty)
 
+### Day 11: Thursday, June 29, 2023
+
+**Today's Progress**: Solved and submitted CS50X week 4 lab volume and started learning Java.
+
+**Thoughts**: Today I solved and submitted CS50X week 4 lab volume and started learning Java. I drank 3 liters of water but couldn't exercise, go for walks, or read a book.
+
+**Link(s) to work**: [CS50 week 4 volume problems](https://github.com/me50/Swastik-Chakravorty)
+
