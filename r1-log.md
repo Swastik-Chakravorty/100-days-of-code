@@ -36,3 +36,6 @@ Solved CS50X week 4 lab smiley and submitted. [https://github.com/me50/Swastik-C
 
 ### R1D11 
 Solved and submitted CS50X week 4 lab volume and started learning Java. [https://github.com/me50/Swastik-Chakravorty]
+
+### R1D12 
+Learned Java syntaxes for new switch styles, conditions, loops, etc. [https://github.com/Swastik-Chakravorty/Java]
