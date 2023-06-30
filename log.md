@@ -88,3 +88,11 @@
 
 **Link(s) to work**: [CS50 week 4 volume problems](https://github.com/me50/Swastik-Chakravorty)
 
+### Day 12: Friday, June 30, 2023
+
+**Today's Progress**: Learned Java syntaxes for new switch styles, conditions, loops, etc.
+
+**Thoughts**: Today I learned Java syntaxes for new switch styles, conditions, loops, etc. I drank 3 liters of water but couldn't exercise, go for walks due to rain everyday, or read a book.
+
+**Link(s) to work**: [Java learning](https://github.com/Swastik-Chakravorty/Java)
+
