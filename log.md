@@ -92,7 +92,15 @@
 
 **Today's Progress**: Learned Java syntaxes for new switch styles, conditions, loops, etc.
 
-**Thoughts**: Today I learned Java syntaxes for new switch styles, conditions, loops, etc. I drank 3 liters of water but couldn't exercise, go for walks due to rain everyday, or read a book.
+**Thoughts**: Today I learned Java syntaxes for new switch styles, conditions, loops, etc. I drank 3 liters of water but couldn't exercise, go for walks due to rain whole day, or read a book.
 
 **Link(s) to work**: [Java learning](https://github.com/Swastik-Chakravorty/Java)
+
+### Day 13: Saturday, July 1, 2023
+
+**Today's Progress**: Solved some problems with class in C++
+
+**Thoughts**: Today I solved some problems with classes in C++. I drank 2 liters of water but couldn't exercise, go for walks due to rain whole day, or read a book.
+
+**Link(s) to work**: [C++ OOP](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
 
