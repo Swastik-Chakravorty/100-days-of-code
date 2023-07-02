@@ -42,3 +42,6 @@ Learned Java syntaxes for new switch styles, conditions, loops, etc. [https://gi
 
 ### R1D13 
 Solved some problems with class in C++. [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP]
+
+### R1D14 
+Solved some problems with class in C++. [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP]
