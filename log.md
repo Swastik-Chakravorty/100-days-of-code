@@ -104,3 +104,11 @@
 
 **Link(s) to work**: [C++ OOP](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
 
+### Day 14: Sunday, July 2, 2023
+
+**Today's Progress**: Solved some problems with class in C++
+
+**Thoughts**: Today I solved some problems with classes in C++. I drank 2.5 liters of water but couldn't exercise, couldn't go for walks due to rain whole day, or read a book.
+
+**Link(s) to work**: [C++ OOP](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
+
