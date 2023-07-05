@@ -45,3 +45,6 @@ Solved some problems with class in C++. [https://github.com/Swastik-Chakravorty/
 
 ### R1D14 
 Solved some problems with class in C++. [https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP]
+
+### R1D15 
+Solved some problems with class in C++, CS50 week 4 filter (easy) and learned functions in Java. [https://github.com/Swastik-Chakravorty/Java/tree/master/Functions]
