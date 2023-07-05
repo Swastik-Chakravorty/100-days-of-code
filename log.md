@@ -112,3 +112,11 @@
 
 **Link(s) to work**: [C++ OOP](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
 
+### Day 15: Wednesday, July 5, 2023
+
+**Today's Progress**: Solved some problems with class in C++, CS50 week 4 filter (easy) and learned functions in Java
+
+**Thoughts**: Today I solved some problems with class in C++, CS50 week 4 filter (easy) and learned functions in Java. I drank 2.5 liters of water but couldn't exercise, couldn't go for walks due to rain whole day, or read a book.
+
+**Link(s) to work**: [Java functions](https://github.com/Swastik-Chakravorty/Java/tree/master/Functions)
+
