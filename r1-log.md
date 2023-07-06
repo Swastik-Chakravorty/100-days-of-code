@@ -48,3 +48,6 @@ Solved some problems with class in C++. [https://github.com/Swastik-Chakravorty/
 
 ### R1D15 
 Solved some problems with class in C++, CS50 week 4 filter (easy) and learned functions in Java. [https://github.com/Swastik-Chakravorty/Java/tree/master/Functions]
+
+### R1D16 
+Learned and solved problems with arrays in Java [https://github.com/Swastik-Chakravorty/Java/tree/master/Arrays]
