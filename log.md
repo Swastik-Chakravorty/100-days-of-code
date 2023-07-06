@@ -108,7 +108,7 @@
 
 **Today's Progress**: Solved some problems with class in C++
 
-**Thoughts**: Today I solved some problems with classes in C++. I drank 2.5 liters of water but couldn't exercise, couldn't go for walks due to rain whole day, or read a book.
+**Thoughts**: Today I solved some problems with classes in C++. I drank 2.5 liters of water but couldn't exercise, couldn't go for walks or read a book.
 
 **Link(s) to work**: [C++ OOP](https://github.com/Swastik-Chakravorty/Learning_CPP/tree/master/OOP)
 
@@ -116,7 +116,15 @@
 
 **Today's Progress**: Solved some problems with class in C++, CS50 week 4 filter (easy) and learned functions in Java
 
-**Thoughts**: Today I solved some problems with class in C++, CS50 week 4 filter (easy) and learned functions in Java. I drank 2.5 liters of water but couldn't exercise, couldn't go for walks due to rain whole day, or read a book.
+**Thoughts**: Today I solved some problems with class in C++, CS50 week 4 filter (easy) and learned functions in Java. I drank 2.5 liters of water but couldn't exercise, couldn't go for walks or read a book.
 
 **Link(s) to work**: [Java functions](https://github.com/Swastik-Chakravorty/Java/tree/master/Functions)
+
+### Day 16: Thursday, July 6, 2023
+
+**Today's Progress**: Learned and solved problems with arrays in Java
+
+**Thoughts**: Today I learned and solved problems with arrays in Java. I drank 2 liters of water but couldn't exercise, couldn't go for walks or read a book.
+
+**Link(s) to work**: [Java arrays](https://github.com/Swastik-Chakravorty/Java/tree/master/Arrays)
 
