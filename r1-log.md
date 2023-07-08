@@ -51,3 +51,6 @@ Solved some problems with class in C++, CS50 week 4 filter (easy) and learned fu
 
 ### R1D16 
 Learned and solved problems with arrays in Java [https://github.com/Swastik-Chakravorty/Java/tree/master/Arrays]
+
+### R1D17 
+Learned linear search in Java and the basics of javascript and solved leetcode problems in Java and basic problems in javascript [https://github.com/Swastik-Chakravorty/Java/tree/master/Linear_Search]
