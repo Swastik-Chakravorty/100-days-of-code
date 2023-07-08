@@ -124,7 +124,15 @@
 
 **Today's Progress**: Learned and solved problems with arrays in Java
 
-**Thoughts**: Today I learned and solved problems with arrays in Java. I drank 2 liters of water but couldn't exercise, couldn't go for walks or read a book.
+**Thoughts**: Today I learned and solved problems with arrays in Java. I drank 2 liters of water but couldn't exercise, go for walks, or read a book.
 
 **Link(s) to work**: [Java arrays](https://github.com/Swastik-Chakravorty/Java/tree/master/Arrays)
+
+### Day 17: Saturday, July 8, 2023
+
+**Today's Progress**: Learned linear search in Java and the basics of javascript and solved leetcode problems in Java and basic problems in javascript
+
+**Thoughts**: Today I learned linear search in Java and the basics of javascript and solved leetcode problems in Java and basic problems in javascript. I drank 2.5 liters of water but couldn't exercise, go for walks, or read a book.
+
+**Link(s) to work**: [Java Linear_Search](https://github.com/Swastik-Chakravorty/Java/tree/master/Linear_Search)
 
