@@ -54,3 +54,6 @@ Learned and solved problems with arrays in Java [https://github.com/Swastik-Chak
 
 ### R1D17 
 Learned linear search in Java and the basics of javascript and solved leetcode problems in Java and basic problems in javascript [https://github.com/Swastik-Chakravorty/Java/tree/master/Linear_Search]
+
+### R1D18 
+Learned binary search in Java and the basics of javascript and solved basic problems in javascript [https://github.com/Swastik-Chakravorty/Java/tree/master/Binary_Search]
