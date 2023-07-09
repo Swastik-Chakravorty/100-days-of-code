@@ -136,3 +136,10 @@
 
 **Link(s) to work**: [Java Linear_Search](https://github.com/Swastik-Chakravorty/Java/tree/master/Linear_Search)
 
+### Day 18: Sunday, July 9, 2023
+
+**Today's Progress**: Learned binary search in Java and the basics of javascript and solved basic problems in javascript
+
+**Thoughts**: Today I learned binary search in Java and the basics of Javascript and solved basic problems in Javascript. I drank 2 liters of water but couldn't exercise, go for walks, or read a book.
+
+**Link(s) to work**: [Java Binary_Search](https://github.com/Swastik-Chakravorty/Java/tree/master/Binary_Search)
