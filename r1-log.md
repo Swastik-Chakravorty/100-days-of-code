@@ -57,3 +57,6 @@ Learned linear search in Java and the basics of javascript and solved leetcode p
 
 ### R1D18 
 Learned binary search in Java and the basics of javascript and solved basic problems in javascript [https://github.com/Swastik-Chakravorty/Java/tree/master/Binary_Search]
+
+### R1D19 
+Solved 3 binary search problems from leetcode with Java [https://github.com/Swastik-Chakravorty/Java/tree/master/Binary_Search]
