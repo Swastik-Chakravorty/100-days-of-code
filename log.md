@@ -143,3 +143,11 @@
 **Thoughts**: Today I learned binary search in Java and the basics of Javascript and solved basic problems in Javascript. I drank 2 liters of water but couldn't exercise, go for walks, or read a book.
 
 **Link(s) to work**: [Java Binary_Search](https://github.com/Swastik-Chakravorty/Java/tree/master/Binary_Search)
+
+### Day 19: Tuesday, July 11, 2023
+
+**Today's Progress**: Solved 3 binary search problems from leetcode with Java
+
+**Thoughts**: Today I solved 3 binary search problems from leetcode with Java. I drank 2 liters of water but couldn't exercise, go for walks, or read a book.
+
+**Link(s) to work**: [Java Binary_Search](https://github.com/Swastik-Chakravorty/Java/tree/master/Binary_Search)
