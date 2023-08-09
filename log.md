@@ -151,3 +151,5 @@
 **Thoughts**: Today I solved 3 binary search problems from leetcode with Java. I drank 2 liters of water but couldn't exercise, go for walks, or read a book.
 
 **Link(s) to work**: [Java Binary_Search](https://github.com/Swastik-Chakravorty/Java/tree/master/Binary_Search)
+
+### I'm resuming my challenge tomorrow, August 10, 2023. I was out of the challenge for a few days due to a hectic schedule with a coding project [https://swastik-chakravorty.github.io/Chingu-solo-project-My-Resto-website-template/]
