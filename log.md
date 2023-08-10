@@ -153,3 +153,11 @@
 **Link(s) to work**: [Java Binary_Search](https://github.com/Swastik-Chakravorty/Java/tree/master/Binary_Search)
 
 ### I'm resuming my challenge tomorrow, August 10, 2023. I was out of the challenge for a few days due to a hectic schedule with a coding project [https://swastik-chakravorty.github.io/Chingu-solo-project-My-Resto-website-template/]
+
+### Day 20: Thursday, August 10, 2023
+
+**Today's Progress**: Revised HTML from freeCodeCamp
+
+**Thoughts**: Today I revised HTML from freeCodeCamp. I drank 2 liters of water but couldn't exercise, go for walks, or read a book.
+
+**Link(s) to work**: [HTML Revision](https://github.com/Swastik-Chakravorty/Learning-HTML)
