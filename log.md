@@ -156,8 +156,19 @@
 
 ### Day 20: Thursday, August 10, 2023
 
-**Today's Progress**: Revised HTML from freeCodeCamp
+**Today's Progress**: Revised HTML from Free Code Camp
 
 **Thoughts**: Today I revised HTML from freeCodeCamp. I drank 2 liters of water but couldn't exercise, go for walks, or read a book.
 
 **Link(s) to work**: [HTML Revision](https://github.com/Swastik-Chakravorty/Learning-HTML)
+
+### Day 21: Friday, August 11, 2023
+
+**Today's Progress**: Completed HTML5 revision with 3 projects and completed the HTML part of my first project from 
+Free Code Camp
+
+
+**Thoughts**: Today I completed HTML5 revision with 3 projects and completed the HTML part of my first project from 
+Free Code Camp. I drank 2 liters of water but couldn't exercise, go for walks, or read a book.
+
+**Link(s) to work**: [Free Code Camp](https://github.com/Swastik-Chakravorty/Free-Code-Camp-Full-Stack)
