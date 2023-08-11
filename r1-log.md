@@ -65,3 +65,6 @@ Solved 3 binary search problems from leetcode with Java [https://github.com/Swas
 
 ### R1D20 
 Revised HTML from freeCodeCamp [https://github.com/Swastik-Chakravorty/Learning-HTML]
+
+### R1D21 
+Completed HTML5 revision with 3 projects and completed the HTML part of my first project from Free Code Camp [https://github.com/Swastik-Chakravorty/Free-Code-Camp-Full-Stack]
