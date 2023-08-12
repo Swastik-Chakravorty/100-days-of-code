@@ -167,8 +167,15 @@
 **Today's Progress**: Completed HTML5 revision with 3 projects and completed the HTML part of my first project from 
 Free Code Camp
 
-
 **Thoughts**: Today I completed HTML5 revision with 3 projects and completed the HTML part of my first project from 
 Free Code Camp. I drank 2 liters of water but couldn't exercise, go for walks, or read a book.
+
+**Link(s) to work**: [Free Code Camp](https://github.com/Swastik-Chakravorty/Free-Code-Camp-Full-Stack)
+
+### Day 22: Saturday, August 12, 2023
+
+**Today's Progress**: Completed first project from Free Code Camp; Started revising CSS, revised git and GitHub; and Started learning networking
+
+**Thoughts**: Today I completed my first project from Free Code Camp; Started revising CSS, revised git and GitHub, and Started learning networking. I drank 3 liters of water, exercised a little bit, but didn't go for walks or read a book.
 
 **Link(s) to work**: [Free Code Camp](https://github.com/Swastik-Chakravorty/Free-Code-Camp-Full-Stack)
