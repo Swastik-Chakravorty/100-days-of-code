@@ -68,3 +68,6 @@ Revised HTML from freeCodeCamp [https://github.com/Swastik-Chakravorty/Learning-
 
 ### R1D21 
 Completed HTML5 revision with 3 projects and completed the HTML part of my first project from Free Code Camp [https://github.com/Swastik-Chakravorty/Free-Code-Camp-Full-Stack]
+
+### R1D22 
+Completed first project from Free Code Camp; Started revising CSS, revised git and GitHub; and Started learning networking [https://github.com/Swastik-Chakravorty/Free-Code-Camp-Full-Stack]
