@@ -179,3 +179,11 @@ Free Code Camp. I drank 2 liters of water but couldn't exercise, go for walks, o
 **Thoughts**: Today I completed my first project from Free Code Camp; Started revising CSS, revised git and GitHub, and Started learning networking. I drank 3 liters of water, exercised a little bit, but didn't go for walks or read a book.
 
 **Link(s) to work**: [Free Code Camp](https://github.com/Swastik-Chakravorty/Free-Code-Camp-Full-Stack)
+
+### Day 23: Sunday, August 13, 2023
+
+**Today's Progress**: I revised a few chapters in CSS, and For the first time, I made 4 pull requests
+
+**Thoughts**: Today I revised a few chapters in CSS, and For the first time, I made 4 pull requests. I drank 3 liters of water, go for walks, but I didn't exercise or read a book.
+
+**Link(s) to work**: [My 1st PR](https://github.com/kunal-kushwaha/commclassroomOP/pull/3201)
