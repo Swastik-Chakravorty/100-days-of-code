@@ -71,3 +71,6 @@ Completed HTML5 revision with 3 projects and completed the HTML part of my first
 
 ### R1D22 
 Completed first project from Free Code Camp; Started revising CSS, revised git and GitHub; and Started learning networking [https://github.com/Swastik-Chakravorty/Free-Code-Camp-Full-Stack]
+
+### R1D23 
+I revised a few chapters in CSS, and For the first time, I made 4 pull requests [https://github.com/kunal-kushwaha/commclassroomOP/pull/3201]
