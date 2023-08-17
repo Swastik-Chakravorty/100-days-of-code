@@ -187,3 +187,11 @@ Free Code Camp. I drank 2 liters of water but couldn't exercise, go for walks, o
 **Thoughts**: Today I revised a few chapters in CSS, and For the first time, I made 4 pull requests. I drank 3 liters of water, go for walks, but I didn't exercise or read a book.
 
 **Link(s) to work**: [My 1st PR](https://github.com/kunal-kushwaha/commclassroomOP/pull/3201)
+
+### Day 24: Thursday, August 17, 2023
+
+**Today's Progress**: I revised a few chapters in CSS
+
+**Thoughts**: Today I revised a few chapters in CSS. I drank 2 liters of water, but I didn't go for walks, exercise, or read a book.
+
+**Link(s) to work**: [CSS Revision](https://github.com/Swastik-Chakravorty/Learning-CSS)
