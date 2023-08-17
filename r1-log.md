@@ -74,3 +74,6 @@ Completed first project from Free Code Camp; Started revising CSS, revised git a
 
 ### R1D23 
 I revised a few chapters in CSS, and For the first time, I made 4 pull requests [https://github.com/kunal-kushwaha/commclassroomOP/pull/3201]
+
+### R1D24 
+I revised a few chapters in CSS [https://github.com/Swastik-Chakravorty/Learning-CSS]
